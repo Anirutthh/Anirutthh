@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aniruthh!
+# 👋 Hi, I'm Aniruth!
 
 🚀 Final Year EEE Student | Frontend Developer (React.js) | DSA in Java  
 📚 Currently building JavaScript & React Projects  
