@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniruth</h1>
-<h3 align="center">🚀 Final Year EEE Student | Frontend Developer (React.js) | DSA in Java</h3>
+<h3 align="center">🚀 Final Year EEE Student | MERN Stack Developer | DSA in Java</h3>
 
-📚 Currently building JavaScript & React Projects  
+📚 Currently building Full Stack Projects using MongoDB, Express.js, React.js & Node.js  
 🔭 Working on: **Smarti AI Chatbot (MERN + AI)**  
-🌱 Learning: **Docker, CI/CD, AWS, MongoDB, System Design**  
+🌱 Learning: **Docker, CI/CD, AWS, System Design**  
 💼 Actively seeking: **Full Stack or Frontend Developer roles**  
 📫 Reach me: **aniruth.yourmail@example.com**  
 💬 Ask me about: **JavaScript, React, Node.js, GitHub Actions**
