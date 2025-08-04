@@ -2,11 +2,10 @@
 <h3 align="center">🚀 Final Year EEE Student | MERN Stack Developer | DSA in Java</h3>
 
 📚 Currently building Full Stack Projects using MongoDB, Express.js, React.js & Node.js  
-🔭 Working on: **Smarti AI Chatbot (MERN + AI)**  
+🔭 Working on: **AI Chatbot (MERN + AI)**  
 🌱 Learning: **Docker, CI/CD, AWS, System Design**  
 💼 Actively seeking: **Full Stack or Frontend Developer roles**  
-📫 Reach me: **aniruth.yourmail@example.com**  
-💬 Ask me about: **JavaScript, React, Node.js, GitHub Actions**
+📫 Reach me: **aniruthsriram1804@gmail.com** 
 
 ---
 
@@ -15,7 +14,7 @@
 - **Languages**: JavaScript, Java, Python, C, SQL  
 - **Web Dev**: React.js, Node.js, Express.js, MongoDB, HTML, CSS  
 - **Tools**: Git, GitHub, Docker, GitHub Actions, VS Code  
-- **Learning**: DevOps, AWS, Mongoose, Nginx, Prometheus
+- **Learning**: DevOps, AWS, Mongoose, Nginx, SpringBoot
 
 ---
 
@@ -34,5 +33,4 @@
 ### 📌 Pinned Projects
 Check out my pinned projects like:
 - `MyAiChatbot` — MERN + OpenAI
-- `Automated Invoice Generator` — Full Stack PDF Tool
 - ...and more coming soon!
