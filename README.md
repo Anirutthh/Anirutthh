@@ -1,29 +1,37 @@
 <h1 align="center">Hi 👋, I'm Aniruth</h1>
-<h3 align="center">Aspiring VLSI Design Verification Engineer
-
-🎓 B-tech in Electrical and Electronics Engineering,Amrita vishwa vidyapeetham,coimbatore
-🔬 Aspiring VLSI Design Verification Engineer
+🚀 Aspiring VLSI Design Verification Engineer |B tech - Electrical and electronics engineering, Amrita Vishwa vidyapeetham, Coimbatore
+🏗️ Currently: Mastering Verilog, SystemVerilog, and UVM at Maven Silicon, Bangalore.
+🧠 Learning: Design Verification methodologies, RTL Design, and Functional Coverage.
+🛠️ Tech Stack: Verilog HDL, SystemVerilog, Python (Scripting), Digital Electronics.
+📮 Reach me: aniruthsriram1804@gmail.com
+📍 Location: Bangalore, India
 
 ---
 
 ##  About Me
 
-Currently learning **VLSI Design Verification** with focus on:
+I am an Electrical and Electronics Engineering (EEE) graduate from Amrita Vishwa Vidyapeetham, currently based in Bangalore.
 
-* Verilog RTL Design
-* SystemVerilog
-* UVM
+I am specializing in VLSI Design Verification at Maven Silicon, where I am transitioning my background in coding and digital logic into a career in the semiconductor industry.
 
-I am building my GitHub by uploading **daily assignments and projects** from my DV learning journey.
+🔭 Currently Learning: Verilog HDL, SystemVerilog, and UVM.
 
+⚡ Core Focus: Writing synthesizable RTL designs and building robust testbenches.
+
+🌱 Goal: Developing a "Design-to-Verify" mindset to ensure high-quality silicon.
+
+💻 Background: Strong foundation in Java (DSA) and Python, which I use to enhance my verification scripting.
 ---
 
-## 🛠️ Skills (Learning & Practicing)
+## 🛠️ Skills & Competencies
 
-* Verilog
-* SystemVerilog
-* Digital Design (FSM, Flip-Flops, Counters)
-* Basic Testbench Writing
+| Category | Skills |
+| :--- | :--- |
+| **Hardware Languages** | Verilog HDL, SystemVerilog |
+| **Verification** | Testbench Development, Functional Coverage (Learning) |
+| **Digital Design** | FSM, Arithmetic Circuits, Counters, Logic Gates |
+| **Software/Scripting** | Python, Java (DSA), C |
+| **Tools** | Questasim, GTKWave, Git |
 
 ---
 
