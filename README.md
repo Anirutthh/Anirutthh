@@ -6,7 +6,7 @@
 📮 Reach me: aniruthsriram1804@gmail.com
 📍 Location: Bangalore, India
 
----
+
 
 ##  About Me
 
@@ -20,8 +20,7 @@ I am specializing in VLSI Design Verification at Maven Silicon, where I am trans
 
 🌱 Goal: Developing a "Design-to-Verify" mindset to ensure high-quality silicon.
 
-💻 Background: Strong foundation in Java (DSA) and Python, which I use to enhance my verification scripting.
----
+
 
 ## 🛠️ Skills & Competencies
 
@@ -35,17 +34,7 @@ I am specializing in VLSI Design Verification at Maven Silicon, where I am trans
 
 ---
 
-## 📂 What You’ll Find Here
 
-* RTL Design implementations
-* Testbenches for verification
-* Step-by-step learning projects
-
----
-
-## 🎯 Goal
-
-To become a **VLSI Design Verification Engineer** and work on real-world chip verification.
 
 ---
 
