@@ -1,36 +1,47 @@
 <h1 align="center">Hi 👋, I'm Aniruth</h1>
-<h3 align="center">🚀 Final Year EEE Student | MERN Stack Developer | DSA in Java</h3>
+<h3 align="center">Aspiring VLSI Design Verification Engineer
 
-📚 Currently building Full Stack Projects using MongoDB, Express.js, React.js & Node.js  
-🔭 Working on: **AI Chatbot (MERN + AI)**  
-🌱 Learning: **Docker, CI/CD, AWS, System Design**  
-💼 Actively seeking: **Full Stack or Frontend Developer roles**  
-📫 Reach me: **aniruthsriram1804@gmail.com** 
+🎓 B-tech in Electrical and Electronics Engineering,Amrita vishwa vidyapeetham,coimbatore
+🔬 Aspiring VLSI Design Verification Engineer
 
 ---
 
-### 💻 Tech Stack
+##  About Me
 
-- **Languages**: JavaScript, Java, Python, C, SQL  
-- **Web Dev**: React.js, Node.js, Express.js, MongoDB, HTML, CSS  
-- **Tools**: Git, GitHub, Docker, GitHub Actions, VS Code  
-- **Learning**: DevOps, AWS, Mongoose, Nginx, SpringBoot
+Currently learning **VLSI Design Verification** with focus on:
 
----
+* Verilog RTL Design
+* SystemVerilog
+* UVM
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirutthh&show_icons=true&theme=radical" alt="Aniruth's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirutthh&theme=radical" alt="GitHub Streak"/>
-</p>
+I am building my GitHub by uploading **daily assignments and projects** from my DV learning journey.
 
 ---
 
-### 📌 Pinned Projects
-Check out my pinned projects like:
-- `MyAiChatbot` — MERN + OpenAI
-- ...and more coming soon!
+## 🛠️ Skills (Learning & Practicing)
+
+* Verilog
+* SystemVerilog
+* Digital Design (FSM, Flip-Flops, Counters)
+* Basic Testbench Writing
+
+---
+
+## 📂 What You’ll Find Here
+
+* RTL Design implementations
+* Testbenches for verification
+* Step-by-step learning projects
+
+---
+
+## 🎯 Goal
+
+To become a **VLSI Design Verification Engineer** and work on real-world chip verification.
+
+---
+
+📫 [aniruthsriram1804@gmail.com](mailto:aniruthsriram1804@gmail.com)
+
+
+
